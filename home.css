@@ -1,0 +1,12 @@
+.maps
+{
+
+    justify-content: center!important;
+
+}
+.col-md-6 iframe
+{
+    left: 65% !important;
+    width: 500px !important;
+    height: 500px !important;
+}
